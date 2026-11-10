@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="270" viewBox="0 0 400 270" role="img" aria-labelledby="title desc">
+<title id="title">Evaluate and select a policy</title>
+<desc id="desc">Independent samples are used to compute empirical losses, then choose a policy with minimum empirical loss.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9" fill="black"/></marker></defs>
+<g stroke="black" stroke-width="2">
+<rect x="40" y="8" width="320" height="56" fill="white"/>
+<path d="M200 64 V101" marker-end="url(#arrow)"/>
+<rect x="40" y="104" width="320" height="56" fill="#ffffe0"/>
+<path d="M200 160 V197" marker-end="url(#arrow)"/>
+<rect x="40" y="200" width="320" height="56" fill="rgb(220,241,255)"/>
+</g>
+<g fill="black" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">
+<text x="200" y="43">Independent samples</text>
+<text x="200" y="139">Empirical losses</text>
+<text x="200" y="235">Selected policy</text>
+</g>
+</svg>
