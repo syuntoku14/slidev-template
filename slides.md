@@ -36,6 +36,12 @@ Replace the title, names, affiliation, and event before presenting.
 This deck demonstrates reusable layouts, not new research results.
 -->
 
+<!--
+Optional section tag: add `tag: Regret proof` to each slide's frontmatter.
+Repeat the same tag on slides in the same section. Omit it to hide the tag.
+See slides/examples.md for tagged slides.
+-->
+
 ---
 src: ./slides/examples.md
 ---

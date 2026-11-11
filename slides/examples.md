@@ -1,3 +1,7 @@
+---
+tag: Setup
+---
+
 ## Setting: Learning from Bounded Losses
 
 We begin with a simple setting that will be used throughout this example talk.
@@ -27,6 +31,8 @@ Replace this example setting with your own notation.
 Use a plain black box for definitions, assumptions, or the problem objective.
 -->
 
+---
+tag: Motivation
 ---
 
 ## Motivation: From Training Loss to Performance
@@ -65,6 +71,8 @@ PDF export shows the completed slide by default.
 -->
 
 ---
+tag: Generalization proof
+---
 
 ## Key Observation: Uniform Control Handles Selection
 
@@ -93,6 +101,8 @@ Yellow boxes highlight an observation, contribution, or central idea.
 This is a standard illustrative fact, not a claim of novelty.
 -->
 
+---
+tag: Generalization proof
 ---
 
 ## Main Result: A Finite-Class Guarantee
@@ -130,6 +140,8 @@ All policies use the same independent sample; losses need not be independent acr
 -->
 
 ---
+tag: Generalization proof
+---
 
 ## Proof: Two Estimation Errors and One Comparison
 
@@ -158,6 +170,8 @@ Keep central proofs in the main talk when they are short enough to explain.
 The formula is ordinary KaTeX, so it remains editable in Markdown.
 -->
 
+---
+tag: Method
 ---
 
 ## Method: Evaluate, Compare, Select
@@ -194,6 +208,8 @@ Replace public/figures/method.svg with your own figure.
 Keep the claim and the figure side by side without adding decorative cards.
 -->
 
+---
+tag: Summary
 ---
 
 ## Summary
